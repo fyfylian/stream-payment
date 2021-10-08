@@ -1,4 +1,4 @@
-# Fyfy Finance App
+# FyfyStream - Finance App
 [![Deploy](https://github.com/fyfyio/fyfy-finance-app/actions/workflows/gh-pages-prod.yml/badge.svg)](https://github.com/fyfyio/fyfy.finance-app/actions/workflows/gh-pages-prod.yml)
 
 Web application client for the **Fyfy streaming payments protocol**.
