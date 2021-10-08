@@ -37,7 +37,7 @@ export const products = [PRODUCT_STREAMS, PRODUCT_VESTING, PRODUCT_PAYROLL, PROD
 //don't forget to update tailwind.config.js to safelist dynamically generated classes
 export const STREAM_STATUS_COLOR = {
     [STREAM_STATUS_SCHEDULED]: 'gray', // now < start
-    [STREAM_STATUS_STREAMING]: 'green', // start <= now < end
+    [STREAM_STATUS_STREAMING]: 'blue', // start <= now < end
     [STREAM_STATUS_COMPLETE]: 'blue', //now >= end;
     [STREAM_STATUS_CANCELED]: 'red',
 }

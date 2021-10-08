@@ -18,7 +18,7 @@ export default function Address(props: { address: string, className: string }) {
     return (
         <span className={"block truncate " + className}>
             {copied
-                ? (<span className="text-green-300 mr-1"><CheckIcon className={iconClassName}/><small>Copied!</small></span>)
+                ? (<span className="text-blue-300 mr-1"><CheckIcon className={iconClassName}/><small>Copied!</small></span>)
                 : <DuplicateIcon className={iconClassName} onClick={copy}/>}
             {address}</span>
     )

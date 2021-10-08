@@ -60,7 +60,7 @@ export default function Products({product}: { product: string }) {
                     <ul className="text-white mt-4">
                         <li>
                             1. signature (<b>1337...code</b>) signed at {(new Date()).toLocaleString()}
-                            <CheckCircleIcon className="text-green-200 w-6 inline"/>
+                            <CheckCircleIcon className="text-blue-200 w-6 inline"/>
                         </li>
                         <li>
                             2. signature — WAITING <ClockIcon className="text-red-200 w-6 inline"/>
