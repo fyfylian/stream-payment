@@ -3,18 +3,18 @@
 
 Web application client for the **Fyfy streaming payments protocol**.
 
-Serverless. Realtime. Free and open-source. Built on Solana.
+Serverless. Realtime. Built on Solana.
 
 - [Short demo]() 
 - [[Extended demo]()]
-- [Slides](https://fyfy.finance/public/fyfy_slides.pdf)
+- [Slides](https://finnce.fyfy.app/public/fyfy_slides.pdf)
 - [Website](https://fyfy.finance)
-- [App](https://app.fyfy.finance)
-- [GitHub](https://github.com/fyfy-finance)
+- [App](https://fyfy-stream-payment-protocol.netlify.app)
+- [GitHub](https://github.com/fyfylian/stream-payment-protocol)
 - [Telegram](https://t.me/fyfyio)
-- [Twitter](https://twitter.com/fyfyio)
+- [Twitter](https://twitter.com/fyfy-io)
 
-To run locally, git clone the repository and then:
+#### To run locally, git clone the repository and then:
 ```
   npm i
   npm run start
