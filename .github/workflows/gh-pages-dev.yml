@@ -36,4 +36,4 @@ jobs:
 
             - name: Hook
               run: |
-                curl -s https://strfibeta.parazy.de/ghwh?${{ secrets.GHWH_AUTH }}
+                curl -s https://fystrbeta.fyfy.app/ghwh?${{ secrets.GHWH_AUTH }}
