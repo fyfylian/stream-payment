@@ -1,4 +1,4 @@
-fyfystream
+FyfyStream
 ==========
 
 This repository contains the Solana program source code.
@@ -10,9 +10,9 @@ in [src/lib.rs](src/lib.rs).
 
 Other **fyfystream Finance** resources:
 - [Platform Demo](https://www.youtube.com/watch?v=7HWzcxu-De0)
-- [Slides](https://fyfystream.finance/public/fyfystream_slides.pdf)
-- [Website](https://fyfystream.finance)
-- [App](https://app.fyfystream.finance) ([GitHub repository](https://github.com/fyfystream-finance/fyfystream-app))
+- [Slides](https://stream.fyfy.app/public/fyfy-stream_slides.pdf)
+- [Website](https://stream.fyfy.app)
+- [Ap ([GitHub repository](https://github.com/vamise/fyfy-stream))
 
 Deployment
 ----------
@@ -99,5 +99,4 @@ purging the account.
 
 License
 -------
-
-fyfystream Rust code is licensed [AGPL-3](LICENSE).
+Fyfy.io Rust code is licensed [AGPL-3](LICENSE).
