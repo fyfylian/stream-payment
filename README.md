@@ -8,8 +8,8 @@ in [src/lib.rs](src/lib.rs).
 
 ![Build and tests](https://github.com/vamise/fyfy-stream-program/actions/workflows/rust-tests.yml/badge.svg)
 
-Other **fyfystream Finance** resources:
-- [Platform Demo](https://www.youtube.com/watch?v=7HWzcxu-De0)
+Other **Fyfy Stream** resources:
+- [Platform Demo](https://www.youtube.com/)
 - [Slides](https://stream.fyfy.app/public/fyfy-stream_slides.pdf)
 - [Website](https://stream.fyfy.app)
 - [Ap ([GitHub repository](https://github.com/vamise/fyfy-stream))
