@@ -1,4 +1,4 @@
-FyfyStream
+Stream
 ==========
 
 This repository contains the Solana program source code.
@@ -8,7 +8,7 @@ in [src/lib.rs](src/lib.rs).
 
 ![Build and tests](https://github.com/vamise/fyfy-stream-program/actions/workflows/rust-tests.yml/badge.svg)
 
-Other **Fyfy Stream** resources:
+Other **Stream** resources:
 - [Platform Demo](https://www.youtube.com/)
 - [Slides](https://stream.fyfy.app/public/fyfy-stream_slides.pdf)
 - [Website](https://stream.fyfy.app)
@@ -99,4 +99,4 @@ purging the account.
 
 License
 -------
-Fyfy.io Rust code is licensed [AGPL-3](LICENSE).
+Rust code is licensed [AGPL-3](LICENSE).
