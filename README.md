@@ -10,9 +10,9 @@ in [src/lib.rs](src/lib.rs).
 
 Other **Stream** resources:
 - [Platform Demo](https://www.youtube.com/)
-- [Slides](https://stream.fyfy.app/public/fyfy-stream_slides.pdf)
+- [Slides](https://stream.fyfy.app/public/stream_slides.pdf)
 - [Website](https://stream.fyfy.app)
-- [Ap ([GitHub repository](https://github.com/vamise/fyfy-stream))
+- [dApp]([GitHub repository](https://github.com/vamise/streampay))
 
 Deployment
 ----------
